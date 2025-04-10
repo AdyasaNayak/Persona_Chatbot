@@ -48,8 +48,7 @@ sample_responses = get_sample_responses("hitesh_transcript_clean.txt")
 system_prompt = build_system_prompt(sample_responses)
 
 model = genai.GenerativeModel(
-    model_name="gemini-2.0-flash",
-    system_instruction=system_prompt
+    model_name="gemini-2.0-flash"
 )
 
 
@@ -62,7 +61,9 @@ if st.button("🧹 Clear Chat"):
 
 
 if "chat" not in st.session_state:
-    st.session_state.chat = model.start_chat()
+    st.session_state.chat = model.start_chat(
+        system_instruction=system_prompt
+    )
 
 
 example_prompts = [
