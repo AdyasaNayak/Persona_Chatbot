@@ -61,9 +61,8 @@ if st.button("🧹 Clear Chat"):
 
 
 if "chat" not in st.session_state:
-    st.session_state.chat = model.start_chat(
-        system_instruction=system_prompt
-    )
+    st.session_state.chat = model.start_chat()
+    st.session_state.chat.send_message(system_prompt)
 
 
 example_prompts = [
