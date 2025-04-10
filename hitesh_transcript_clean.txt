@@ -1,0 +1,532 @@
+WEBVTT
+Kind: captions
+Language: en
+Yes, <00:00:01.040><c>how </c><00:00:01.320><c>are </c><00:00:01.600><c>you </c><00:00:01.880><c>all? </c><00:00:02.160><c>Welcome </c><00:00:02.440><c>to </c><00:00:02.720><c>all </c><00:00:03.000><c>of </c><00:00:03.280><c>you</c>
+Yes, how are you all? Welcome to all of you
+Yes, how are you all? Welcome to all of you
+in <00:00:03.680><c>tea </c><00:00:03.880><c>and </c><00:00:04.080><c>code. </c><00:00:04.280><c>Sir, </c><00:00:04.480><c>we </c><00:00:04.680><c>have </c><00:00:04.880><c>a </c><00:00:05.080><c>unique</c>
+thing <00:00:30.225><c>that </c><00:00:30.370><c>I </c><00:00:30.515><c>am </c><00:00:30.660><c>not </c><00:00:30.805><c>able </c><00:00:30.950><c>to </c><00:00:31.095><c>understand. </c><00:00:31.240><c>I </c><00:00:31.385><c>am </c><00:00:31.530><c>not </c><00:00:31.675><c>enjoying </c><00:00:31.820><c>it. </c><00:00:31.965><c>I </c><00:00:32.110><c>am</c>
+thing that I am not able to understand. I am not enjoying it. I am
+thing that I am not able to understand. I am not enjoying it. I am
+not <00:00:32.415><c>getting </c><00:00:32.630><c>confidence </c><00:00:32.845><c>in </c><00:00:33.060><c>logic </c><00:00:33.275><c>building. </c><00:00:33.490><c>So </c><00:00:33.705><c>there </c><00:00:33.920><c>are</c>
+not getting confidence in logic building. So there are
+not getting confidence in logic building. So there are
+many <00:00:34.552><c>ways </c><00:00:35.104><c>of </c><00:00:35.656><c>logic </c><00:00:36.208><c>building </c><00:00:36.760><c>and</c>
+many ways of logic building and
+many ways of logic building and
+it <00:00:37.186><c>is </c><00:00:37.452><c>also </c><00:00:37.718><c>practiced </c><00:00:37.984><c>in </c><00:00:38.250><c>many </c><00:00:38.516><c>ways</c>
+it is also practiced in many ways
+it is also practiced in many ways
+and <00:00:38.936><c>there </c><00:00:39.153><c>are </c><00:00:39.370><c>many </c><00:00:39.587><c>reasons </c><00:00:39.804><c>why </c><00:00:40.021><c>you </c><00:00:40.238><c>may</c>
+and there are many reasons why you may
+and there are many reasons why you may
+not <00:00:40.986><c>be </c><00:00:41.413><c>feeling </c><00:00:41.840><c>confident.</c>
+not be feeling confident.
+not be feeling confident.
+I <00:00:42.475><c>am </c><00:00:42.790><c>going </c><00:00:43.105><c>to </c><00:00:43.420><c>discuss </c><00:00:43.735><c>one </c><00:00:44.050><c>of </c><00:00:44.365><c>the </c><00:00:44.680><c>reasons</c>
+I am going to discuss one of the reasons
+I am going to discuss one of the reasons
+here <00:00:45.005><c>in </c><00:00:45.210><c>logic </c><00:00:45.415><c>building. </c><00:00:45.620><c>It </c><00:00:45.825><c>is </c><00:00:46.030><c>a </c><00:00:46.235><c>small </c><00:00:46.440><c>one.</c>
+here in logic building. It is a small one.
+here in logic building. It is a small one.
+You <00:00:46.835><c>will </c><00:00:47.030><c>like </c><00:00:47.225><c>knowing </c><00:00:47.420><c>it </c><00:00:47.615><c>a </c><00:00:47.810><c>lot. </c><00:00:48.005><c>And </c><00:00:48.200><c>probably </c><00:00:48.395><c>what</c>
+You will like knowing it a lot. And probably what
+You will like knowing it a lot. And probably what
+you <00:00:48.905><c>must </c><00:00:49.050><c>have </c><00:00:49.195><c>been </c><00:00:49.340><c>hearing, </c><00:00:49.485><c>you </c><00:00:49.630><c>will </c><00:00:49.775><c>see </c><00:00:49.920><c>it </c><00:00:50.065><c>from </c><00:00:50.210><c>a </c><00:00:50.355><c>new</c>
+you must have been hearing, you will see it from a new
+you must have been hearing, you will see it from a new
+perspective. <00:00:50.804><c>The </c><00:00:51.049><c>comment </c><00:00:51.294><c>target </c><00:00:51.539><c>is </c><00:00:51.784><c>not </c><00:00:52.029><c>too </c><00:00:52.274><c>big. </c><00:00:52.519><c>Let's</c>
+perspective. The comment target is not too big. Let's
+take <00:00:55.179><c>a </c><00:00:55.319><c>target </c><00:00:55.459><c>of </c><00:00:55.599><c>just </c><00:00:55.739><c>400 </c><00:00:55.879><c>comments. </c><00:00:56.019><c>Please </c><00:00:56.159><c>get </c><00:00:56.299><c>it </c><00:00:56.439><c>completed</c>
+take a target of just 400 comments. Please get it completed
+take a target of just 400 comments. Please get it completed
+in <00:00:57.026><c>24 </c><00:00:57.412><c>hours </c><00:00:57.798><c>and </c><00:00:58.184><c>we </c><00:00:58.570><c>will </c><00:00:58.956><c>discuss</c>
+in 24 hours and we will discuss
+in 24 hours and we will discuss
+now <00:00:59.422><c>why </c><00:00:59.684><c>the </c><00:00:59.946><c>logic </c><00:01:00.208><c>building </c><00:01:00.470><c>is </c><00:01:00.732><c>not </c><00:01:00.994><c>happening.</c>
+now why the logic building is not happening.
+now why the logic building is not happening.
+See, <00:01:01.866><c>why </c><00:01:02.092><c>the </c><00:01:02.318><c>logic </c><00:01:02.544><c>building </c><00:01:02.770><c>is </c><00:01:02.996><c>not</c>
+See, why the logic building is not
+See, why the logic building is not
+happening, <00:01:03.304><c>there </c><00:01:03.529><c>are </c><00:01:03.754><c>many </c><00:01:03.979><c>reasons </c><00:01:04.204><c>for </c><00:01:04.429><c>it. </c><00:01:04.654><c>Sometimes </c><00:01:04.879><c>the</c>
+happening, there are many reasons for it. Sometimes the
+happening, there are many reasons for it. Sometimes the
+foundation <00:01:05.376><c>of </c><00:01:05.752><c>programming </c><00:01:06.128><c>is </c><00:01:06.504><c>not </c><00:01:06.880><c>clear.</c>
+foundation of programming is not clear.
+foundation of programming is not clear.
+Sometimes <00:01:07.168><c>the </c><00:01:07.336><c>foundation </c><00:01:07.504><c>is </c><00:01:07.672><c>not </c><00:01:07.840><c>clear. </c><00:01:08.008><c>So </c><00:01:08.176><c>you </c><00:01:08.344><c>think </c><00:01:08.512><c>that</c>
+Sometimes the foundation is not clear. So you think that
+Sometimes the foundation is not clear. So you think that
+logic <00:01:09.219><c>building </c><00:01:09.679><c>will </c><00:01:10.139><c>happen </c><00:01:10.599><c>by </c><00:01:11.059><c>doing </c><00:01:11.519><c>DSA.</c>
+logic building will happen by doing DSA.
+logic building will happen by doing DSA.
+Sometimes <00:01:11.831><c>you </c><00:01:11.942><c>think </c><00:01:12.053><c>that </c><00:01:12.164><c>it </c><00:01:12.275><c>will </c><00:01:12.386><c>happen </c><00:01:12.497><c>by </c><00:01:12.608><c>doing </c><00:01:12.719><c>lead </c><00:01:12.830><c>coding, </c><00:01:12.941><c>it </c><00:01:13.052><c>will </c><00:01:13.163><c>happen </c><00:01:13.274><c>by</c>
+Sometimes you think that it will happen by doing lead coding, it will happen by
+Sometimes you think that it will happen by doing lead coding, it will happen by
+doing <00:01:13.745><c>CP, </c><00:01:13.970><c>it </c><00:01:14.195><c>will </c><00:01:14.420><c>happen </c><00:01:14.645><c>by </c><00:01:14.870><c>making </c><00:01:15.095><c>a </c><00:01:15.320><c>project.</c>
+doing CP, it will happen by making a project.
+doing CP, it will happen by making a project.
+Whereas <00:01:16.500><c>obviously, </c><00:01:17.600><c>there</c>
+Whereas obviously, there
+Whereas obviously, there
+are <00:01:17.959><c>all </c><00:01:18.119><c>these </c><00:01:18.279><c>factors </c><00:01:18.439><c>in </c><00:01:18.599><c>it </c><00:01:18.759><c>that </c><00:01:18.919><c>all </c><00:01:19.079><c>this </c><00:01:19.239><c>logic  </c><00:01:19.399><c>They</c>
+are all these factors in it that all this logic  They
+are all these factors in it that all this logic  They
+help <00:01:20.239><c>in </c><00:01:20.758><c>building </c><00:01:21.277><c>but </c><00:01:21.796><c>one</c>
+help in building but one
+help in building but one
+major <00:01:22.257><c>factor </c><00:01:22.554><c>which </c><00:01:22.851><c>I </c><00:01:23.148><c>personally </c><00:01:23.445><c>feel </c><00:01:23.742><c>and </c><00:01:24.039><c>I</c>
+major factor which I personally feel and I
+major factor which I personally feel and I
+see <00:01:24.307><c>many </c><00:01:24.455><c>teachers </c><00:01:24.603><c>who </c><00:01:24.751><c>also </c><00:01:24.899><c>focus </c><00:01:25.047><c>on </c><00:01:25.195><c>this </c><00:01:25.343><c>thing, </c><00:01:25.491><c>it </c><00:01:25.639><c>is</c>
+see many teachers who also focus on this thing, it is
+see many teachers who also focus on this thing, it is
+not <00:01:26.136><c>that </c><00:01:26.432><c>they </c><00:01:26.728><c>are </c><00:01:27.024><c>doing </c><00:01:27.320><c>bad,</c>
+not that they are doing bad,
+not that they are doing bad,
+they <00:01:27.739><c>focus </c><00:01:27.999><c>on </c><00:01:28.259><c>this </c><00:01:28.519><c>thing, </c><00:01:28.779><c>this </c><00:01:29.039><c>is</c>
+they focus on this thing, this is
+they focus on this thing, this is
+called <00:01:30.009><c>dry </c><00:01:30.498><c>run, </c><00:01:30.987><c>now </c><00:01:31.476><c>this</c>
+called dry run, now this
+called dry run, now this
+dry <00:01:31.888><c>run </c><00:01:32.136><c>is </c><00:01:32.384><c>not </c><00:01:32.632><c>do </c><00:01:32.880><c>not </c><00:01:33.128><c>repeat </c><00:01:33.376><c>yourself, </c><00:01:33.624><c>it </c><00:01:33.872><c>is</c>
+dry run is not do not repeat yourself, it is
+dry run is not do not repeat yourself, it is
+also <00:01:34.191><c>a </c><00:01:34.382><c>good </c><00:01:34.573><c>method, </c><00:01:34.764><c>it </c><00:01:34.955><c>is </c><00:01:35.146><c>a </c><00:01:35.337><c>good </c><00:01:35.528><c>method </c><00:01:35.719><c>to</c>
+also a good method, it is a good method to
+also a good method, it is a good method to
+build <00:01:36.759><c>projects, </c><00:01:37.359><c>to</c>
+build projects, to
+build projects, to
+build <00:01:38.499><c>applications, </c><00:01:39.038><c>but </c><00:01:39.577><c>here </c><00:01:40.116><c>the</c>
+build applications, but here the
+build applications, but here the
+dry <00:01:40.634><c>run </c><00:01:40.869><c>that </c><00:01:41.104><c>I </c><00:01:41.339><c>am </c><00:01:41.574><c>talking </c><00:01:41.809><c>about </c><00:01:42.044><c>is </c><00:01:42.279><c>a</c>
+dry run that I am talking about is a
+dry run that I am talking about is a
+simple <00:01:42.786><c>thing </c><00:01:43.052><c>that </c><00:01:43.318><c>you </c><00:01:43.584><c>write </c><00:01:43.850><c>a </c><00:01:44.116><c>code </c><00:01:44.382><c>and </c><00:01:44.648><c>can </c><00:01:44.914><c>you</c>
+simple thing that you write a code and can you
+get <00:01:47.218><c>the </c><00:01:47.396><c>output </c><00:01:47.574><c>of </c><00:01:47.752><c>that </c><00:01:47.930><c>code </c><00:01:48.108><c>by </c><00:01:48.286><c>executing </c><00:01:48.464><c>it </c><00:01:48.642><c>inside </c><00:01:48.820><c>your </c><00:01:48.998><c>mind,</c>
+get the output of that code by executing it inside your mind,
+get the output of that code by executing it inside your mind,
+this <00:01:49.542><c>looks </c><00:01:49.884><c>very </c><00:01:50.226><c>easy </c><00:01:50.568><c>but </c><00:01:50.910><c>it </c><00:01:51.252><c>is </c><00:01:51.594><c>a</c>
+this looks very easy but it is a
+this looks very easy but it is a
+very <00:01:52.030><c>challenging </c><00:01:52.261><c>task, </c><00:01:52.492><c>let </c><00:01:52.723><c>me </c><00:01:52.954><c>tell </c><00:01:53.185><c>you </c><00:01:53.416><c>how, </c><00:01:53.647><c>in </c><00:01:53.878><c>the</c>
+very challenging task, let me tell you how, in the
+very challenging task, let me tell you how, in the
+environment <00:01:54.851><c>in </c><00:01:55.102><c>which </c><00:01:55.353><c>we </c><00:01:55.604><c>learn </c><00:01:55.855><c>code, </c><00:01:56.106><c>we </c><00:01:56.357><c>are</c>
+environment in which we learn code, we are
+environment in which we learn code, we are
+taught <00:01:56.967><c>code </c><00:01:57.254><c>in </c><00:01:57.541><c>this </c><00:01:57.828><c>way </c><00:01:58.115><c>that</c>
+taught code in this way that
+taught code in this way that
+always <00:01:58.714><c>run </c><00:01:59.068><c>it, </c><00:01:59.422><c>get </c><00:01:59.776><c>the </c><00:02:00.130><c>output, </c><00:02:00.484><c>run </c><00:02:00.838><c>it,</c>
+always run it, get the output, run it,
+always run it, get the output, run it,
+get <00:02:01.359><c>the </c><00:02:01.599><c>output, </c><00:02:01.839><c>this </c><00:02:02.079><c>is </c><00:02:02.319><c>a </c><00:02:02.559><c>good </c><00:02:02.799><c>thing, </c><00:02:03.039><c>the </c><00:02:03.279><c>code </c><00:02:03.519><c>should</c>
+get the output, this is a good thing, the code should
+get the output, this is a good thing, the code should
+also <00:02:03.982><c>run, </c><00:02:04.205><c>that </c><00:02:04.428><c>is </c><00:02:04.651><c>why </c><00:02:04.874><c>coding </c><00:02:05.097><c>is </c><00:02:05.320><c>there,</c>
+also run, that is why coding is there,
+also run, that is why coding is there,
+but <00:02:05.851><c>many </c><00:02:06.102><c>times </c><00:02:06.353><c>what </c><00:02:06.604><c>happens </c><00:02:06.855><c>is </c><00:02:07.106><c>that </c><00:02:07.357><c>run </c><00:02:07.608><c>it, </c><00:02:07.859><c>get </c><00:02:08.110><c>the</c>
+but many times what happens is that run it, get the
+but many times what happens is that run it, get the
+output, <00:02:08.645><c>run </c><00:02:08.930><c>it, </c><00:02:09.215><c>get </c><00:02:09.500><c>the </c><00:02:09.785><c>output, </c><00:02:10.070><c>that </c><00:02:10.355><c>is</c>
+why <00:02:20.016><c>in </c><00:02:20.232><c>dialymit, </c><00:02:20.448><c>the </c><00:02:20.664><c>pattern </c><00:02:20.880><c>printing </c><00:02:21.096><c>that </c><00:02:21.312><c>everyone </c><00:02:21.528><c>is </c><00:02:21.744><c>done, </c><00:02:21.960><c>the </c><00:02:22.176><c>odd-even </c><00:02:22.392><c>is</c>
+why in dialymit, the pattern printing that everyone is done, the odd-even is
+why in dialymit, the pattern printing that everyone is done, the odd-even is
+found
+found
+found
+This <00:02:25.137><c>is </c><00:02:25.514><c>done </c><00:02:25.891><c>so </c><00:02:26.268><c>that </c><00:02:26.645><c>the </c><00:02:27.022><c>code </c><00:02:27.399><c>runs</c>
+This is done so that the code runs
+This is done so that the code runs
+but <00:02:28.086><c>even </c><00:02:28.532><c>before </c><00:02:28.978><c>it </c><00:02:29.424><c>runs, </c><00:02:29.870><c>when </c><00:02:30.316><c>you</c>
+but even before it runs, when you
+but even before it runs, when you
+look <00:02:30.516><c>at </c><00:02:30.632><c>the </c><00:02:30.748><c>code, </c><00:02:30.864><c>you </c><00:02:30.980><c>can </c><00:02:31.096><c>execute </c><00:02:31.212><c>it </c><00:02:31.328><c>in </c><00:02:31.444><c>your </c><00:02:31.560><c>mind</c>
+look at the code, you can execute it in your mind
+look at the code, you can execute it in your mind
+that <00:02:32.180><c>ok, </c><00:02:32.640><c>this </c><00:02:33.100><c>loop </c><00:02:33.560><c>is</c>
+that ok, this loop is
+that ok, this loop is
+going <00:02:34.060><c>from </c><00:02:34.320><c>here, </c><00:02:34.580><c>ok, </c><00:02:34.840><c>the </c><00:02:35.100><c>third </c><00:02:35.360><c>variable,</c>
+going from here, ok, the third variable,
+going from here, ok, the third variable,
+this <00:02:35.699><c>work </c><00:02:35.799><c>will </c><00:02:35.899><c>happen </c><00:02:35.999><c>in </c><00:02:36.099><c>the </c><00:02:36.199><c>third </c><00:02:36.299><c>instance, </c><00:02:36.399><c>it </c><00:02:36.499><c>will </c><00:02:36.599><c>happen </c><00:02:36.699><c>in </c><00:02:36.799><c>the </c><00:02:36.899><c>fourth, </c><00:02:36.999><c>this </c><00:02:37.099><c>is </c><00:02:37.199><c>the</c>
+this work will happen in the third instance, it will happen in the fourth, this is the
+this work will happen in the third instance, it will happen in the fourth, this is the
+most <00:02:37.985><c>important </c><00:02:38.651><c>thing </c><00:02:39.317><c>to </c><00:02:39.983><c>come, </c><00:02:40.649><c>now </c><00:02:41.315><c>you</c>
+most important thing to come, now you
+most important thing to come, now you
+see, <00:02:41.685><c>if </c><00:02:41.890><c>you </c><00:02:42.095><c>always </c><00:02:42.300><c>depend </c><00:02:42.505><c>on </c><00:02:42.710><c>this </c><00:02:42.915><c>thing </c><00:02:43.120><c>that</c>
+see, if you always depend on this thing that
+see, if you always depend on this thing that
+till <00:02:43.872><c>the </c><00:02:44.145><c>time </c><00:02:44.418><c>the </c><00:02:44.691><c>output </c><00:02:44.964><c>doesn't </c><00:02:45.237><c>come</c>
+till the time the output doesn't come
+till the time the output doesn't come
+or <00:02:45.759><c>I </c><00:02:45.999><c>don't </c><00:02:46.239><c>execute </c><00:02:46.479><c>it, </c><00:02:46.719><c>I </c><00:02:46.959><c>do</c>
+or I don't execute it, I do
+or I don't execute it, I do
+n't <00:02:47.415><c>know </c><00:02:47.630><c>what </c><00:02:47.845><c>the </c><00:02:48.060><c>code </c><00:02:48.275><c>is </c><00:02:48.490><c>doing, </c><00:02:48.705><c>then </c><00:02:48.920><c>I</c>
+n't know what the code is doing, then I
+n't know what the code is doing, then I
+think <00:02:49.501><c>you </c><00:02:49.642><c>are </c><00:02:49.783><c>going </c><00:02:49.924><c>to </c><00:02:50.065><c>remain </c><00:02:50.206><c>weak </c><00:02:50.347><c>in </c><00:02:50.488><c>logic </c><00:02:50.629><c>building </c><00:02:50.770><c>even </c><00:02:50.911><c>in </c><00:02:51.052><c>the </c><00:02:51.193><c>future,</c>
+think you are going to remain weak in logic building even in the future,
+think you are going to remain weak in logic building even in the future,
+so <00:02:52.226><c>I'm </c><00:02:52.853><c>sorry </c><00:02:53.480><c>to</c>
+so I'm sorry to
+so I'm sorry to
+say <00:02:54.075><c>but </c><00:02:54.390><c>this </c><00:02:54.705><c>is </c><00:02:55.020><c>the </c><00:02:55.335><c>fact </c><00:02:55.650><c>that </c><00:02:55.965><c>if </c><00:02:56.280><c>a </c><00:02:56.595><c>coder,</c>
+say but this is the fact that if a coder,
+say but this is the fact that if a coder,
+a <00:02:57.313><c>programmer </c><00:02:57.506><c>is </c><00:02:57.699><c>not </c><00:02:57.892><c>able </c><00:02:58.085><c>to </c><00:02:58.278><c>build </c><00:02:58.471><c>those </c><00:02:58.664><c>logics </c><00:02:58.857><c>in </c><00:02:59.050><c>his </c><00:02:59.243><c>mind, </c><00:02:59.436><c>the</c>
+a programmer is not able to build those logics in his mind, the
+main <00:03:01.731><c>reason </c><00:03:01.982><c>for </c><00:03:02.233><c>this </c><00:03:02.484><c>is </c><00:03:02.735><c>that </c><00:03:02.986><c>he </c><00:03:03.237><c>is</c>
+main reason for this is that he is
+main reason for this is that he is
+not <00:03:03.880><c>able </c><00:03:04.000><c>to </c><00:03:04.120><c>execute </c><00:03:04.240><c>the </c><00:03:04.360><c>code </c><00:03:04.480><c>that </c><00:03:04.600><c>he </c><00:03:04.720><c>has </c><00:03:04.840><c>written </c><00:03:04.960><c>in </c><00:03:05.080><c>his </c><00:03:05.200><c>mind, </c><00:03:05.320><c>he </c><00:03:05.440><c>is</c>
+not able to execute the code that he has written in his mind, he is
+not able to execute the code that he has written in his mind, he is
+just <00:03:05.742><c>writing </c><00:03:05.965><c>it </c><00:03:06.188><c>inside </c><00:03:06.411><c>with </c><00:03:06.634><c>his </c><00:03:06.857><c>eyes </c><00:03:07.080><c>closed,</c>
+just writing it inside with his eyes closed,
+just writing it inside with his eyes closed,
+this <00:03:09.480><c>is</c>
+this is
+this is
+not <00:03:10.139><c>right, </c><00:03:10.558><c>so </c><00:03:10.977><c>please </c><00:03:11.396><c>improve </c><00:03:11.815><c>this, </c><00:03:12.234><c>the</c>
+not right, so please improve this, the
+not right, so please improve this, the
+work <00:03:12.848><c>that </c><00:03:12.976><c>is </c><00:03:13.104><c>specially </c><00:03:13.232><c>given </c><00:03:13.360><c>to </c><00:03:13.488><c>you, </c><00:03:13.616><c>that </c><00:03:13.744><c>is, </c><00:03:13.872><c>pattern</c>
+work that is specially given to you, that is, pattern
+work that is specially given to you, that is, pattern
+printing, <00:03:14.729><c>I </c><00:03:15.139><c>have </c><00:03:15.549><c>seen </c><00:03:15.959><c>that</c>
+printing, I have seen that
+printing, I have seen that
+people <00:03:16.240><c>who </c><00:03:16.440><c>are </c><00:03:16.640><c>very </c><00:03:16.840><c>weak </c><00:03:17.040><c>in </c><00:03:17.240><c>pattern </c><00:03:17.440><c>printing,</c>
+people who are very weak in pattern printing,
+people who are very weak in pattern printing,
+they <00:03:18.166><c>are </c><00:03:18.492><c>weak </c><00:03:18.818><c>because </c><00:03:19.144><c>they </c><00:03:19.470><c>just </c><00:03:19.796><c>write</c>
+they are weak because they just write
+they are weak because they just write
+code  <00:03:20.956><c>They </c><00:03:21.192><c>are </c><00:03:21.428><c>writing </c><00:03:21.664><c>that </c><00:03:21.900><c>there </c><00:03:22.136><c>is </c><00:03:22.372><c>just </c><00:03:22.608><c>one </c><00:03:22.844><c>x </c><00:03:23.080><c>loop,</c>
+code  They are writing that there is just one x loop,
+code  They are writing that there is just one x loop,
+one <00:03:23.408><c>y </c><00:03:23.616><c>loop, </c><00:03:23.824><c>one </c><00:03:24.032><c>i </c><00:03:24.240><c>loop </c><00:03:24.448><c>and </c><00:03:24.656><c>one </c><00:03:24.864><c>j </c><00:03:25.072><c>loop.</c>
+one y loop, one i loop and one j loop.
+one y loop, one i loop and one j loop.
+They <00:03:25.822><c>are </c><00:03:26.004><c>not </c><00:03:26.186><c>able </c><00:03:26.368><c>to </c><00:03:26.550><c>understand </c><00:03:26.732><c>where </c><00:03:26.914><c>the </c><00:03:27.096><c>loop </c><00:03:27.278><c>is</c>
+They are not able to understand where the loop is
+They are not able to understand where the loop is
+going, <00:03:27.739><c>which </c><00:03:28.078><c>loop </c><00:03:28.417><c>is </c><00:03:28.756><c>going </c><00:03:29.095><c>row </c><00:03:29.434><c>wise,</c>
+going, which loop is going row wise,
+going, which loop is going row wise,
+which <00:03:30.127><c>loop </c><00:03:30.655><c>is </c><00:03:31.183><c>going </c><00:03:31.711><c>length </c><00:03:32.239><c>wise,</c>
+which loop is going length wise,
+which loop is going length wise,
+they <00:03:32.647><c>are </c><00:03:32.814><c>not </c><00:03:32.981><c>able </c><00:03:33.148><c>to </c><00:03:33.315><c>visualize </c><00:03:33.482><c>all </c><00:03:33.649><c>this </c><00:03:33.816><c>and </c><00:03:33.983><c>this </c><00:03:34.150><c>will</c>
+they are not able to visualize all this and this will
+they are not able to visualize all this and this will
+never <00:03:34.720><c>be </c><00:03:35.160><c>visualized </c><00:03:35.600><c>if </c><00:03:36.040><c>you</c>
+never be visualized if you
+never be visualized if you
+hit <00:03:36.879><c>the </c><00:03:37.198><c>output. </c><00:03:37.517><c>Yes, </c><00:03:37.836><c>this </c><00:03:38.155><c>is </c><00:03:38.474><c>a </c><00:03:38.793><c>fact,</c>
+hit the output. Yes, this is a fact,
+hit the output. Yes, this is a fact,
+you <00:03:39.325><c>may </c><00:03:39.570><c>find </c><00:03:39.815><c>it </c><00:03:40.060><c>strange </c><00:03:40.305><c>to </c><00:03:40.550><c>hear </c><00:03:40.795><c>but</c>
+you may find it strange to hear but
+you may find it strange to hear but
+specially <00:03:41.419><c>when </c><00:03:41.679><c>you </c><00:03:41.939><c>are </c><00:03:42.199><c>printing </c><00:03:42.459><c>a </c><00:03:42.719><c>pattern,</c>
+specially when you are printing a pattern,
+specially when you are printing a pattern,
+matrix <00:03:43.172><c>printing, </c><00:03:43.545><c>star </c><00:03:43.918><c>pattern</c>
+matrix printing, star pattern
+matrix printing, star pattern
+printing, <00:03:44.940><c>there </c><00:03:45.600><c>your </c><00:03:46.260><c>first </c><00:03:46.920><c>goal</c>
+printing, there your first goal
+printing, there your first goal
+should <00:03:47.365><c>be </c><00:03:47.690><c>not </c><00:03:48.015><c>to </c><00:03:48.340><c>run </c><00:03:48.665><c>the </c><00:03:48.990><c>output, </c><00:03:49.315><c>if </c><00:03:49.640><c>you</c>
+should be not to run the output, if you
+should be not to run the output, if you
+run <00:03:50.157><c>without </c><00:03:50.314><c>output, </c><00:03:50.471><c>if </c><00:03:50.628><c>you </c><00:03:50.785><c>can </c><00:03:50.942><c>execute </c><00:03:51.099><c>that </c><00:03:51.256><c>code </c><00:03:51.413><c>in </c><00:03:51.570><c>your </c><00:03:51.727><c>mind </c><00:03:51.884><c>and </c><00:03:52.041><c>see </c><00:03:52.198><c>that</c>
+run without output, if you can execute that code in your mind and see that
+this <00:03:55.020><c>code </c><00:03:55.360><c>is </c><00:03:55.700><c>written </c><00:03:56.040><c>here, </c><00:03:56.380><c>then </c><00:03:56.720><c>it</c>
+this code is written here, then it
+this code is written here, then it
+means <00:03:57.107><c>that </c><00:03:57.294><c>a </c><00:03:57.481><c>complete </c><00:03:57.668><c>line </c><00:03:57.855><c>will </c><00:03:58.042><c>be </c><00:03:58.229><c>formed </c><00:03:58.416><c>at </c><00:03:58.603><c>the </c><00:03:58.790><c>top,</c>
+means that a complete line will be formed at the top,
+means that a complete line will be formed at the top,
+one <00:03:59.091><c>less </c><00:03:59.182><c>will </c><00:03:59.273><c>be </c><00:03:59.364><c>formed </c><00:03:59.455><c>in </c><00:03:59.546><c>the </c><00:03:59.637><c>second </c><00:03:59.728><c>row </c><00:03:59.819><c>or </c><00:03:59.910><c>one </c><00:04:00.001><c>more </c><00:04:00.092><c>less </c><00:04:00.183><c>in </c><00:04:00.274><c>the </c><00:04:00.365><c>third </c><00:04:00.456><c>and </c><00:04:00.547><c>then</c>
+one less will be formed in the second row or one more less in the third and then
+one less will be formed in the second row or one more less in the third and then
+finally <00:04:00.975><c>only </c><00:04:01.190><c>one </c><00:04:01.405><c>star </c><00:04:01.620><c>will </c><00:04:01.835><c>be </c><00:04:02.050><c>formed </c><00:04:02.265><c>or </c><00:04:02.480><c>its</c>
+finally only one star will be formed or its
+finally only one star will be formed or its
+opposite <00:04:02.923><c>will </c><00:04:03.126><c>happen. </c><00:04:03.329><c>If </c><00:04:03.532><c>this </c><00:04:03.735><c>is </c><00:04:03.938><c>not </c><00:04:04.141><c>being </c><00:04:04.344><c>visualized </c><00:04:04.547><c>in </c><00:04:04.750><c>the </c><00:04:04.953><c>mind, </c><00:04:05.156><c>then</c>
+opposite will happen. If this is not being visualized in the mind, then
+opposite will happen. If this is not being visualized in the mind, then
+you <00:04:06.720><c>will</c>
+you will
+you will
+never <00:04:07.395><c>be </c><00:04:07.670><c>able </c><00:04:07.945><c>to </c><00:04:08.220><c>move </c><00:04:08.495><c>ahead </c><00:04:08.770><c>in </c><00:04:09.045><c>logic </c><00:04:09.320><c>building. </c><00:04:09.595><c>Well,</c>
+never be able to move ahead in logic building. Well,
+never be able to move ahead in logic building. Well,
+I <00:04:09.840><c>will </c><00:04:09.960><c>tell </c><00:04:10.080><c>you </c><00:04:10.200><c>one </c><00:04:10.320><c>more </c><00:04:10.440><c>fact </c><00:04:10.560><c>about </c><00:04:10.680><c>this, </c><00:04:10.800><c>why </c><00:04:10.920><c>is </c><00:04:11.040><c>this</c>
+I will tell you one more fact about this, why is this
+I will tell you one more fact about this, why is this
+important, <00:04:11.615><c>see, </c><00:04:11.950><c>many </c><00:04:12.285><c>times </c><00:04:12.620><c>when </c><00:04:12.955><c>you</c>
+important, see, many times when you
+important, see, many times when you
+build <00:04:13.413><c>applications </c><00:04:13.626><c>at </c><00:04:13.839><c>a </c><00:04:14.052><c>large </c><00:04:14.265><c>level, </c><00:04:14.478><c>at </c><00:04:14.691><c>a </c><00:04:14.904><c>very </c><00:04:15.117><c>high</c>
+build applications at a large level, at a very high
+build applications at a large level, at a very high
+scale.  <00:04:15.545><c>You </c><00:04:15.690><c>will </c><00:04:15.835><c>do </c><00:04:15.980><c>that, </c><00:04:16.125><c>obviously </c><00:04:16.270><c>you </c><00:04:16.415><c>are </c><00:04:16.560><c>not </c><00:04:16.705><c>going </c><00:04:16.850><c>to </c><00:04:16.995><c>go</c>
+scale.  You will do that, obviously you are not going to go
+scale.  You will do that, obviously you are not going to go
+anywhere, <00:04:17.466><c>you </c><00:04:17.892><c>will </c><00:04:18.318><c>definitely</c>
+anywhere, you will definitely
+anywhere, you will definitely
+do <00:04:18.925><c>it, </c><00:04:19.250><c>but </c><00:04:19.575><c>what </c><00:04:19.900><c>happens </c><00:04:20.225><c>inside </c><00:04:20.550><c>it, </c><00:04:20.875><c>when</c>
+do it, but what happens inside it, when
+do it, but what happens inside it, when
+you <00:04:21.296><c>write </c><00:04:21.552><c>a </c><00:04:21.808><c>controller, </c><00:04:22.064><c>a </c><00:04:22.320><c>functionality,</c>
+you write a controller, a functionality,
+you write a controller, a functionality,
+many <00:04:23.293><c>times </c><00:04:23.546><c>it </c><00:04:23.799><c>is </c><00:04:24.052><c>not </c><00:04:24.305><c>possible </c><00:04:24.558><c>to </c><00:04:24.811><c>test </c><00:04:25.064><c>that </c><00:04:25.317><c>functionality,</c>
+many times it is not possible to test that functionality,
+many times it is not possible to test that functionality,
+many <00:04:28.320><c>times</c>
+many times
+many times
+that <00:04:28.691><c>functionality </c><00:04:28.942><c>depends </c><00:04:29.193><c>on </c><00:04:29.444><c>three-four </c><00:04:29.695><c>things </c><00:04:29.946><c>later </c><00:04:30.197><c>on,</c>
+that functionality depends on three-four things later on,
+that functionality depends on three-four things later on,
+so <00:04:30.886><c>every </c><00:04:31.252><c>time </c><00:04:31.618><c>after </c><00:04:31.984><c>writing </c><00:04:32.350><c>the </c><00:04:32.716><c>code,</c>
+so every time after writing the code,
+so every time after writing the code,
+execute <00:04:33.257><c>it </c><00:04:33.514><c>and </c><00:04:33.771><c>show </c><00:04:34.028><c>it </c><00:04:34.285><c>by </c><00:04:34.542><c>running </c><00:04:34.799><c>it,</c>
+execute it and show it by running it,
+execute it and show it by running it,
+this <00:04:35.506><c>is </c><00:04:36.012><c>not </c><00:04:36.518><c>possible</c>
+this is not possible
+this is not possible
+in <00:04:36.953><c>big </c><00:04:37.186><c>applications </c><00:04:37.419><c>because </c><00:04:37.652><c>there </c><00:04:37.885><c>are </c><00:04:38.118><c>dependencies,</c>
+in big applications because there are dependencies,
+in big applications because there are dependencies,
+you <00:04:39.066><c>may </c><00:04:39.332><c>have </c><00:04:39.598><c>to </c><00:04:39.864><c>write </c><00:04:40.130><c>some </c><00:04:40.396><c>more</c>
+you may have to write some more
+you may have to write some more
+code <00:04:40.760><c>along </c><00:04:41.000><c>with </c><00:04:41.240><c>it, </c><00:04:41.480><c>some </c><00:04:41.720><c>other </c><00:04:41.960><c>user </c><00:04:42.200><c>may </c><00:04:42.440><c>have </c><00:04:42.680><c>to</c>
+code along with it, some other user may have to
+code along with it, some other user may have to
+write <00:04:43.011><c>its </c><00:04:43.142><c>code </c><00:04:43.273><c>or </c><00:04:43.404><c>your </c><00:04:43.535><c>friend </c><00:04:43.666><c>may </c><00:04:43.797><c>have </c><00:04:43.928><c>to </c><00:04:44.059><c>write </c><00:04:44.190><c>it</c>
+write its code or your friend may have to write it
+write its code or your friend may have to write it
+in <00:04:44.699><c>the </c><00:04:44.919><c>company, </c><00:04:45.139><c>only </c><00:04:45.359><c>then </c><00:04:45.579><c>you </c><00:04:45.799><c>can </c><00:04:46.019><c>see </c><00:04:46.239><c>whether</c>
+in the company, only then you can see whether
+in the company, only then you can see whether
+my <00:04:46.680><c>code </c><00:04:47.000><c>is </c><00:04:47.320><c>running </c><00:04:47.640><c>or </c><00:04:47.960><c>not,</c>
+my code is running or not,
+my code is running or not,
+now <00:04:48.834><c>that </c><00:04:49.029><c>is </c><00:04:49.224><c>why </c><00:04:49.419><c>many </c><00:04:49.614><c>times </c><00:04:49.809><c>when </c><00:04:50.004><c>tutorials </c><00:04:50.199><c>are</c>
+now that is why many times when tutorials are
+now that is why many times when tutorials are
+made, <00:04:50.746><c>many </c><00:04:51.172><c>people </c><00:04:51.598><c>do</c>
+made, many people do
+made, many people do
+not <00:04:51.880><c>execute </c><00:04:52.040><c>it </c><00:04:52.200><c>at </c><00:04:52.360><c>that </c><00:04:52.520><c>point </c><00:04:52.680><c>and </c><00:04:52.840><c>show </c><00:04:53.000><c>it, </c><00:04:53.160><c>the</c>
+not execute it at that point and show it, the
+not execute it at that point and show it, the
+reason <00:04:53.584><c>for </c><00:04:53.768><c>this </c><00:04:53.952><c>is </c><00:04:54.136><c>that </c><00:04:54.320><c>executing </c><00:04:54.504><c>it </c><00:04:54.688><c>right </c><00:04:54.872><c>now </c><00:04:55.056><c>means </c><00:04:55.240><c>the</c>
+reason for this is that executing it right now means the
+reason for this is that executing it right now means the
+whole <00:04:55.652><c>code </c><00:04:55.825><c>will </c><00:04:55.998><c>break, </c><00:04:56.171><c>it </c><00:04:56.344><c>is </c><00:04:56.517><c>guaranteed, </c><00:04:56.690><c>there </c><00:04:56.863><c>will </c><00:04:57.036><c>be </c><00:04:57.209><c>an </c><00:04:57.382><c>error </c><00:04:57.555><c>there,</c>
+whole code will break, it is guaranteed, there will be an error there,
+whole code will break, it is guaranteed, there will be an error there,
+but <00:04:58.370><c>after </c><00:04:58.940><c>reaching </c><00:04:59.510><c>a </c><00:05:00.080><c>point,</c>
+but after reaching a point,
+but after reaching a point,
+only <00:05:00.579><c>after </c><00:05:00.959><c>it </c><00:05:01.339><c>stabilizes, </c><00:05:01.719><c>you</c>
+only after it stabilizes, you
+only after it stabilizes, you
+can <00:05:02.379><c>run </c><00:05:02.598><c>that </c><00:05:02.817><c>project </c><00:05:03.036><c>and </c><00:05:03.255><c>test </c><00:05:03.474><c>it </c><00:05:03.693><c>a </c><00:05:03.912><c>little,</c>
+can run that project and test it a little,
+can run that project and test it a little,
+every <00:05:04.698><c>10  </c><00:05:04.796><c>It </c><00:05:04.894><c>is </c><00:05:04.992><c>a </c><00:05:05.090><c>fact </c><00:05:05.188><c>that </c><00:05:05.286><c>the </c><00:05:05.384><c>project </c><00:05:05.482><c>cannot </c><00:05:05.580><c>be </c><00:05:05.678><c>tested </c><00:05:05.776><c>after </c><00:05:05.874><c>writing </c><00:05:05.972><c>a </c><00:05:06.070><c>line.</c>
+every 10  It is a fact that the project cannot be tested after writing a line.
+Whoever <00:05:08.680><c>has </c><00:05:08.960><c>made </c><00:05:09.240><c>a </c><00:05:09.520><c>big </c><00:05:09.800><c>application </c><00:05:10.080><c>knows</c>
+Whoever has made a big application knows
+Whoever has made a big application knows
+that <00:05:10.624><c>after </c><00:05:11.008><c>writing </c><00:05:11.392><c>every </c><00:05:11.776><c>function, </c><00:05:12.160><c>after</c>
+that after writing every function, after
+that after writing every function, after
+writing <00:05:12.949><c>every </c><00:05:13.458><c>10 </c><00:05:13.967><c>lines, </c><00:05:14.476><c>you</c>
+writing every 10 lines, you
+writing every 10 lines, you
+cannot <00:05:14.864><c>make </c><00:05:15.048><c>the </c><00:05:15.232><c>code </c><00:05:15.416><c>run. </c><00:05:15.600><c>So </c><00:05:15.784><c>we </c><00:05:15.968><c>will </c><00:05:16.152><c>have </c><00:05:16.336><c>to </c><00:05:16.520><c>change </c><00:05:16.704><c>this </c><00:05:16.888><c>mindset </c><00:05:17.072><c>a</c>
+cannot make the code run. So we will have to change this mindset a
+cannot make the code run. So we will have to change this mindset a
+little <00:05:17.504><c>bit, </c><00:05:17.768><c>we </c><00:05:18.032><c>will </c><00:05:18.296><c>have </c><00:05:18.560><c>to</c>
+little bit, we will have to
+little bit, we will have to
+see <00:05:19.053><c>it </c><00:05:19.426><c>from </c><00:05:19.799><c>this </c><00:05:20.172><c>perspective </c><00:05:20.545><c>that </c><00:05:20.918><c>always</c>
+see it from this perspective that always
+see it from this perspective that always
+put <00:05:21.617><c>the </c><00:05:21.994><c>output </c><00:05:22.371><c>after </c><00:05:22.748><c>writing </c><00:05:23.125><c>the </c><00:05:23.502><c>code. </c><00:05:23.879><c>If</c>
+put the output after writing the code. If
+put the output after writing the code. If
+you <00:05:24.377><c>are </c><00:05:24.674><c>in </c><00:05:24.971><c>this </c><00:05:25.268><c>phase, </c><00:05:25.565><c>then </c><00:05:25.862><c>you </c><00:05:26.159><c>are </c><00:05:26.456><c>probably </c><00:05:26.753><c>not</c>
+you are in this phase, then you are probably not
+you are in this phase, then you are probably not
+able <00:05:27.036><c>to </c><00:05:27.153><c>read </c><00:05:27.270><c>the </c><00:05:27.387><c>code, </c><00:05:27.504><c>you </c><00:05:27.621><c>are </c><00:05:27.738><c>not </c><00:05:27.855><c>able </c><00:05:27.972><c>to </c><00:05:28.089><c>build </c><00:05:28.206><c>its </c><00:05:28.323><c>logic </c><00:05:28.440><c>properly</c>
+able to read the code, you are not able to build its logic properly
+able to read the code, you are not able to build its logic properly
+here <00:05:30.280><c>and</c>
+here and
+here and
+until <00:05:30.728><c>you </c><00:05:30.936><c>are </c><00:05:31.144><c>not </c><00:05:31.352><c>able </c><00:05:31.560><c>to </c><00:05:31.768><c>do </c><00:05:31.976><c>it </c><00:05:32.184><c>here, </c><00:05:32.392><c>because</c>
+until you are not able to do it here, because
+until you are not able to do it here, because
+see <00:05:32.970><c>what </c><00:05:33.181><c>happens </c><00:05:33.392><c>to </c><00:05:33.603><c>the </c><00:05:33.814><c>code, </c><00:05:34.025><c>it </c><00:05:34.236><c>is</c>
+see what happens to the code, it is
+see what happens to the code, it is
+like <00:05:34.459><c>maths, </c><00:05:34.599><c>once </c><00:05:34.739><c>you </c><00:05:34.879><c>have </c><00:05:35.019><c>seen </c><00:05:35.159><c>the </c><00:05:35.299><c>answer </c><00:05:35.439><c>of </c><00:05:35.579><c>maths </c><00:05:35.719><c>in </c><00:05:35.859><c>the </c><00:05:35.999><c>past,</c>
+like maths, once you have seen the answer of maths in the past,
+like maths, once you have seen the answer of maths in the past,
+now <00:05:36.427><c>you </c><00:05:36.655><c>already </c><00:05:36.883><c>know </c><00:05:37.111><c>what </c><00:05:37.339><c>the </c><00:05:37.567><c>answer </c><00:05:37.795><c>is,</c>
+now you already know what the answer is,
+now you already know what the answer is,
+once <00:05:38.164><c>you </c><00:05:38.328><c>have </c><00:05:38.492><c>picked </c><00:05:38.656><c>up </c><00:05:38.820><c>someone's </c><00:05:38.984><c>key </c><00:05:39.148><c>and </c><00:05:39.312><c>seen </c><00:05:39.476><c>that</c>
+once you have picked up someone's key and seen that
+once you have picked up someone's key and seen that
+okay, <00:05:39.702><c>let's </c><00:05:39.844><c>do </c><00:05:39.986><c>it </c><00:05:40.128><c>this </c><00:05:40.270><c>way, </c><00:05:40.412><c>then </c><00:05:40.554><c>you </c><00:05:40.696><c>already </c><00:05:40.838><c>know,</c>
+okay, let's do it this way, then you already know,
+okay, let's do it this way, then you already know,
+but <00:05:41.337><c>the </c><00:05:41.674><c>main </c><00:05:42.011><c>goal </c><00:05:42.348><c>of </c><00:05:42.685><c>maths </c><00:05:43.022><c>was </c><00:05:43.359><c>to</c>
+but the main goal of maths was to
+but the main goal of maths was to
+disturb <00:05:43.848><c>the </c><00:05:44.176><c>brain </c><00:05:44.504><c>a </c><00:05:44.832><c>little </c><00:05:45.160><c>bit,</c>
+disturb the brain a little bit,
+disturb the brain a little bit,
+you <00:05:45.550><c>see </c><00:05:45.740><c>for </c><00:05:45.930><c>yourself </c><00:05:46.120><c>whether </c><00:05:46.310><c>these </c><00:05:46.500><c>steps </c><00:05:46.690><c>are </c><00:05:46.880><c>happening,</c>
+you see for yourself whether these steps are happening,
+you see for yourself whether these steps are happening,
+whether <00:05:47.189><c>the </c><00:05:47.339><c>programming </c><00:05:47.489><c>is </c><00:05:47.639><c>also </c><00:05:47.789><c>in </c><00:05:47.939><c>the </c><00:05:48.089><c>same </c><00:05:48.239><c>way,</c>
+whether the programming is also in the same way,
+whether the programming is also in the same way,
+once <00:05:48.990><c>your </c><00:05:49.420><c>code </c><00:05:49.850><c>is </c><00:05:50.280><c>executed,</c>
+once your code is executed,
+once your code is executed,
+you <00:05:50.585><c>are </c><00:05:50.730><c>not </c><00:05:50.875><c>going </c><00:05:51.020><c>to </c><00:05:51.165><c>see </c><00:05:51.310><c>that </c><00:05:51.455><c>code </c><00:05:51.600><c>again, </c><00:05:51.745><c>this </c><00:05:51.890><c>is </c><00:05:52.035><c>a</c>
+you are not going to see that code again, this is a
+you are not going to see that code again, this is a
+fact, <00:05:52.490><c>but </c><00:05:52.820><c>you  </c><00:05:53.150><c>You </c><00:05:53.480><c>did </c><00:05:53.810><c>not </c><00:05:54.140><c>even </c><00:05:54.470><c>execute </c><00:05:54.800><c>it</c>
+fact, but you  You did not even execute it
+fact, but you  You did not even execute it
+and <00:05:55.370><c>first </c><00:05:55.780><c>you </c><00:05:56.190><c>are </c><00:05:56.600><c>predicting</c>
+and first you are predicting
+and first you are predicting
+what <00:05:57.209><c>could </c><00:05:57.659><c>be </c><00:05:58.109><c>its </c><00:05:58.559><c>output</c>
+what could be its output
+what could be its output
+and <00:05:59.166><c>then </c><00:05:59.452><c>if </c><00:05:59.738><c>it </c><00:06:00.024><c>matches </c><00:06:00.310><c>your </c><00:06:00.596><c>prediction,</c>
+and then if it matches your prediction,
+and then if it matches your prediction,
+it <00:06:01.114><c>will </c><00:06:01.348><c>give </c><00:06:01.582><c>you </c><00:06:01.816><c>confidence </c><00:06:02.050><c>as </c><00:06:02.284><c>well, </c><00:06:02.518><c>it </c><00:06:02.752><c>will</c>
+it will give you confidence as well, it will
+it will give you confidence as well, it will
+also <00:06:03.210><c>make </c><00:06:03.300><c>you </c><00:06:03.390><c>build </c><00:06:03.480><c>the </c><00:06:03.570><c>logic, </c><00:06:03.660><c>but </c><00:06:03.750><c>every </c><00:06:03.840><c>time </c><00:06:03.930><c>you </c><00:06:04.020><c>will </c><00:06:04.110><c>execute </c><00:06:04.200><c>execute </c><00:06:04.290><c>execute </c><00:06:04.380><c>with </c><00:06:04.470><c>your </c><00:06:04.560><c>eyes </c><00:06:04.650><c>closed, </c><00:06:04.740><c>you </c><00:06:04.830><c>will</c>
+also make you build the logic, but every time you will execute execute execute with your eyes closed, you will
+not <00:06:06.769><c>read </c><00:06:07.378><c>beyond </c><00:06:07.987><c>that, </c><00:06:08.596><c>now</c>
+not read beyond that, now
+not read beyond that, now
+it <00:06:08.919><c>is </c><00:06:09.079><c>not </c><00:06:09.239><c>necessary </c><00:06:09.399><c>that </c><00:06:09.559><c>whatever </c><00:06:09.719><c>I </c><00:06:09.879><c>have </c><00:06:10.039><c>said </c><00:06:10.199><c>is</c>
+it is not necessary that whatever I have said is
+it is not necessary that whatever I have said is
+100% <00:06:10.642><c>applicable, </c><00:06:10.805><c>it </c><00:06:10.968><c>is </c><00:06:11.131><c>possible </c><00:06:11.294><c>that </c><00:06:11.457><c>you </c><00:06:11.620><c>may </c><00:06:11.783><c>disagree </c><00:06:11.946><c>with </c><00:06:12.109><c>this </c><00:06:12.272><c>thing, </c><00:06:12.435><c>it</c>
+100% applicable, it is possible that you may disagree with this thing, it
+100% applicable, it is possible that you may disagree with this thing, it
+may <00:06:13.659><c>also </c><00:06:14.758><c>be</c>
+may also be
+may also be
+you <00:06:15.036><c>should </c><00:06:15.192><c>do </c><00:06:15.348><c>it, </c><00:06:15.504><c>it </c><00:06:15.660><c>may </c><00:06:15.816><c>not </c><00:06:15.972><c>be </c><00:06:16.128><c>suitable </c><00:06:16.284><c>for </c><00:06:16.440><c>you, </c><00:06:16.596><c>it </c><00:06:16.752><c>may</c>
+you should do it, it may not be suitable for you, it may
+not <00:06:18.552><c>be </c><00:06:18.704><c>suitable </c><00:06:18.856><c>for </c><00:06:19.008><c>what </c><00:06:19.160><c>some </c><00:06:19.312><c>other </c><00:06:19.464><c>teacher </c><00:06:19.616><c>is </c><00:06:19.768><c>teaching, </c><00:06:19.920><c>it </c><00:06:20.072><c>does </c><00:06:20.224><c>not </c><00:06:20.376><c>matter, </c><00:06:20.528><c>everyone </c><00:06:20.680><c>has</c>
+not be suitable for what some other teacher is teaching, it does not matter, everyone has
+not be suitable for what some other teacher is teaching, it does not matter, everyone has
+different <00:06:21.573><c>perspective, </c><00:06:22.186><c>everyone </c><00:06:22.799><c>has</c>
+different perspective, everyone has
+different perspective, everyone has
+different <00:06:23.353><c>journey </c><00:06:23.746><c>of </c><00:06:24.139><c>coding, </c><00:06:24.532><c>I </c><00:06:24.925><c>thought </c><00:06:25.318><c>that</c>
+different journey of coding, I thought that
+different journey of coding, I thought that
+this <00:06:25.833><c>journey </c><00:06:26.106><c>and </c><00:06:26.379><c>this </c><00:06:26.652><c>incident </c><00:06:26.925><c>should </c><00:06:27.198><c>be</c>
+this journey and this incident should be
+this journey and this incident should be
+shared <00:06:27.800><c>with </c><00:06:28.200><c>you </c><00:06:28.600><c>on </c><00:06:29.000><c>Raw </c><00:06:29.400><c>Talk </c><00:06:29.800><c>and</c>
+shared with you on Raw Talk and
+shared with you on Raw Talk and
+you <00:06:30.055><c>also </c><00:06:30.230><c>like </c><00:06:30.405><c>these </c><00:06:30.580><c>Raw </c><00:06:30.755><c>discussions </c><00:06:30.930><c>a </c><00:06:31.105><c>lot, </c><00:06:31.280><c>so </c><00:06:31.455><c>it </c><00:06:31.630><c>is</c>
+you also like these Raw discussions a lot, so it is
+you also like these Raw discussions a lot, so it is
+possible <00:06:32.232><c>that </c><00:06:32.624><c>this </c><00:06:33.016><c>video </c><00:06:33.408><c>may </c><00:06:33.800><c>have</c>
+possible that this video may have
+possible that this video may have
+helped <00:06:34.075><c>you </c><00:06:34.231><c>a </c><00:06:34.387><c>little </c><00:06:34.543><c>and </c><00:06:34.699><c>now </c><00:06:34.855><c>after </c><00:06:35.011><c>writing </c><00:06:35.167><c>the </c><00:06:35.323><c>code, </c><00:06:35.479><c>you </c><00:06:35.635><c>will</c>
+helped you a little and now after writing the code, you will
+helped you a little and now after writing the code, you will
+try <00:06:36.110><c>to </c><00:06:36.500><c>visualize </c><00:06:36.890><c>a </c><00:06:37.280><c>little</c>
+try to visualize a little
+try to visualize a little
+in <00:06:37.824><c>your </c><00:06:38.049><c>brain, </c><00:06:38.274><c>whether </c><00:06:38.499><c>you </c><00:06:38.724><c>are </c><00:06:38.949><c>making </c><00:06:39.174><c>a </c><00:06:39.399><c>project,</c>
+in your brain, whether you are making a project,
+in your brain, whether you are making a project,
+whether <00:06:39.872><c>you </c><00:06:40.184><c>are </c><00:06:40.496><c>writing </c><00:06:40.808><c>register </c><00:06:41.120><c>controller,</c>
+whether you are writing register controller,
+whether you are writing register controller,
+login <00:06:41.475><c>controller  </c><00:06:41.670><c>Are </c><00:06:41.865><c>you </c><00:06:42.060><c>writing </c><00:06:42.255><c>a </c><00:06:42.450><c>function </c><00:06:42.645><c>or </c><00:06:42.840><c>you </c><00:06:43.035><c>are</c>
+login controller  Are you writing a function or you are
+login controller  Are you writing a function or you are
+writing <00:06:43.760><c>a </c><00:06:44.360><c>basic </c><00:06:44.960><c>stack </c><00:06:45.560><c>function,</c>
+writing a basic stack function,
+writing a basic stack function,
+writing <00:06:45.919><c>a </c><00:06:46.038><c>linked </c><00:06:46.157><c>list </c><00:06:46.276><c>or </c><00:06:46.395><c>printing </c><00:06:46.514><c>a </c><00:06:46.633><c>pattern, </c><00:06:46.752><c>and</c>
+writing a linked list or printing a pattern, and
+before <00:06:49.287><c>executing </c><00:06:49.494><c>it, </c><00:06:49.701><c>process </c><00:06:49.908><c>the </c><00:06:50.115><c>entire </c><00:06:50.322><c>loop </c><00:06:50.529><c>etc. </c><00:06:50.736><c>in </c><00:06:50.943><c>your </c><00:06:51.150><c>brain </c><00:06:51.357><c>and</c>
+before executing it, process the entire loop etc. in your brain and
+before executing it, process the entire loop etc. in your brain and
+see <00:06:52.253><c>that </c><00:06:52.826><c>it </c><00:06:53.399><c>is</c>
+see that it is
+see that it is
+happening <00:06:53.804><c>like </c><00:06:54.009><c>this </c><00:06:54.214><c>here, </c><00:06:54.419><c>this </c><00:06:54.624><c>is </c><00:06:54.829><c>happening, </c><00:06:55.034><c>this </c><00:06:55.239><c>will</c>
+happening like this here, this is happening, this will
+happening like this here, this is happening, this will
+help <00:06:55.903><c>you </c><00:06:56.366><c>in </c><00:06:56.829><c>the </c><00:06:57.292><c>future. </c><00:06:57.755><c>So,</c>
+help you in the future. So,
+help you in the future. So,
+that's <00:06:58.093><c>all </c><00:06:58.267><c>I </c><00:06:58.441><c>wanted </c><00:06:58.615><c>to </c><00:06:58.789><c>say </c><00:06:58.963><c>about </c><00:06:59.137><c>this </c><00:06:59.311><c>raw </c><00:06:59.485><c>video. </c><00:06:59.659><c>I </c><00:06:59.833><c>hope</c>
+that's all I wanted to say about this raw video. I hope
+that's all I wanted to say about this raw video. I hope
+you <00:07:00.502><c>liked </c><00:07:00.844><c>it. </c><00:07:01.186><c>If </c><00:07:01.528><c>you </c><00:07:01.870><c>liked </c><00:07:02.212><c>it, </c><00:07:02.554><c>then</c>
+you liked it. If you liked it, then
+you liked it. If you liked it, then
+complete <00:07:02.960><c>your </c><00:07:03.200><c>comment </c><00:07:03.440><c>target </c><00:07:03.680><c>and </c><00:07:03.920><c>if </c><00:07:04.160><c>you </c><00:07:04.400><c>have</c>
+complete your comment target and if you have
+complete your comment target and if you have
+n't <00:07:04.807><c>subscribed, </c><00:07:04.975><c>then </c><00:07:05.143><c>do </c><00:07:05.311><c>it. </c><00:07:05.479><c>If </c><00:07:05.647><c>you </c><00:07:05.815><c>haven't, </c><00:07:05.983><c>it's </c><00:07:06.151><c>okay, </c><00:07:06.319><c>just</c>
+n't subscribed, then do it. If you haven't, it's okay, just
+n't subscribed, then do it. If you haven't, it's okay, just
+forward <00:07:06.715><c>it. </c><00:07:06.910><c>We </c><00:07:07.105><c>are </c><00:07:07.300><c>not </c><00:07:07.495><c>going </c><00:07:07.690><c>anywhere. </c><00:07:07.885><c>You </c><00:07:08.080><c>are</c>
+forward it. We are not going anywhere. You are
+forward it. We are not going anywhere. You are
+also <00:07:08.386><c>here, </c><00:07:08.652><c>you </c><00:07:08.918><c>will </c><00:07:09.184><c>come </c><00:07:09.450><c>here </c><00:07:09.716><c>only.</c>
+also here, you will come here only.
+also here, you will come here only.
+Okay, <00:07:10.342><c>yes, </c><00:07:10.564><c>we </c><00:07:10.786><c>will </c><00:07:11.008><c>meet </c><00:07:11.230><c>you </c><00:07:11.452><c>in </c><00:07:11.674><c>the </c><00:07:11.896><c>next </c><00:07:12.118><c>such</c>
+Okay, yes, we will meet you in the next such
+Okay, yes, we will meet you in the next such
+video.
