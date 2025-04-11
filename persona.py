@@ -75,7 +75,7 @@ example_prompts = [
 ]
 
 st.markdown("### 💡 Example Prompts")
-selected_example = st.selectbox("Pick a question or type your own below 👇", [""] + example_prompts)
+selected_example = st.selectbox("Pick a question👇", [""] + example_prompts)
 
 
 user_input = st.text_input("Ask Hitesh Sir something", value=selected_example if selected_example else "", key="user_prompt")
