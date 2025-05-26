@@ -4,7 +4,7 @@ This is a fun little AI chatbot project built using [Streamlit](https://streamli
 
 ## 🎯 Features
 
-- 🗣️ **Persona-based Responses** — Styled like Hitesh bhai with real tone, expressions, and vibes.
+- 🗣️ **Persona-based Responses** — Styled like Hitesh Sir with real tone, expressions, and vibes.
 - 💬 **Real-time Chat** — Ask questions and get instant answers using Google’s Gemini 2.0 Flash model.
 - 💡 **Example Prompts** — Handy one-click prompts to explore what the chatbot can do.
 - 🧹 **Clear Chat** — Start fresh whenever you want.
