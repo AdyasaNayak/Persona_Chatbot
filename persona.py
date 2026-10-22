@@ -6,7 +6,7 @@ import os
 
 load_dotenv()
 api_key = os.getenv("GEMINI_API_KEY")
-genai.configure(api_key=api_key) 
+genai.configure(api_key=api_key)
 
 
 def get_sample_responses(filepath, count=5):
@@ -21,7 +21,7 @@ def build_system_prompt(responses):
         """
         You are Hitesh Choudhary, who's a passionate tech mentor and content creator.
         Tone: You generally have to speak in a mix of Hindi and English, you have to sound humble, friendly and honest at the same time. Use expressions like "bhai", "arre", "hanji kaise hain aap sabhi", "toh chaliye shuru karte hain", "chaliye", and jokes when needed but don't use them way too frequently, keep it subtle. Also make sure to take reference to chai very frequently as his online learning platform is based all on "Chai aur Code".
-        
+
         Here are examples of how you talk:\n
         """
     )
@@ -44,6 +44,21 @@ def save_conversation(user_input, bot_output, filename="chat_history.json"):
         json.dump(chat_data, f, indent=4, ensure_ascii=False)
 
 
+GREETING = (
+    "Hanji kaise hain aap sabhi! Main Hitesh hoon — chai lo, baith jao, "
+    "aur puchiye jo poochna hai. Toh chaliye shuru karte hain ☕"
+)
+
+
+def start_persona_chat():
+    # Seed the persona through chat history so the app loads without an API call.
+    return model.start_chat(
+        history=[
+            {"role": "user", "parts": [system_prompt]},
+            {"role": "model", "parts": [GREETING]},
+        ]
+    )
+
 sample_responses = get_sample_responses("hitesh_transcript_clean.txt")
 system_prompt = build_system_prompt(sample_responses)
 
@@ -51,18 +66,58 @@ model = genai.GenerativeModel(
     model_name="gemini-2.0-flash"
 )
 
+st.set_page_config(page_title="Hitesh Choudhary AI", page_icon="🤖", layout="centered")
 
-st.set_page_config(page_title="Hitesh Choudhary AI", page_icon="🤖")
+st.markdown(
+    """
+    <style>
+      #MainMenu { visibility: hidden; }
+      header[data-testid="stHeader"] { background: transparent; }
+      .stChatMessage { padding-top: 0.4rem; padding-bottom: 0.4rem; }
+      div[data-testid="stChatInput"] {
+        border: 1px solid rgba(35, 79, 54, 0.4);
+        border-radius: 12px;
+      }
+    </style>
+    """,
+    unsafe_allow_html=True,
+)
+
 st.title("Hitesh Choudhary Chatbot ☕")
-
-if st.button("🧹 Clear Chat"):
-    st.session_state.chat_history = []
-    st.rerun() 
-
+st.caption("Full-stack, DSA, career, consistency — ask anything, chai-flavored answers guaranteed.")
 
 if "chat" not in st.session_state:
-    st.session_state.chat = model.start_chat()
-    st.session_state.chat.send_message(system_prompt)
+    st.session_state.chat = start_persona_chat()
+
+if "messages" not in st.session_state:
+    st.session_state.messages = [("assistant", GREETING)]
+
+
+def send_message(user_input):
+    st.session_state.messages.append(("user", user_input))
+
+    with st.chat_message("user", avatar="🧑‍💻"):
+        st.markdown(user_input)
+
+    with st.chat_message("assistant", avatar="🤖"):
+        with st.spinner("Thinking... chai ke saath response leke aate hain..."):
+            try:
+                response = st.session_state.chat.send_message(user_input)
+                reply = response.text
+            except Exception:
+                reply = (
+                    "Arre, something went wrong while reaching Gemini. "
+                    "Check the API key and try again bhai."
+                )
+                failed = True
+            else:
+                failed = False
+        st.markdown(reply)
+
+    st.session_state.messages.append(("assistant", reply))
+
+    if not failed:
+        save_conversation(user_input, reply)
 
 
 example_prompts = [
@@ -75,26 +130,25 @@ example_prompts = [
 ]
 
 st.markdown("### 💡 Example Prompts")
-selected_example = st.selectbox("Pick a question 👇", [""] + example_prompts)
+for row_start in range(0, len(example_prompts), 2):
+    columns = st.columns(2)
+    for column, prompt in zip(columns, example_prompts[row_start:row_start + 2]):
+        with column:
+            if st.button(prompt, key=f"example_{prompt}", use_container_width=True):
+                send_message(prompt)
+                st.rerun()
 
+if st.button("🧹 Clear Chat"):
+    st.session_state.chat = start_persona_chat()
+    st.session_state.messages = [("assistant", GREETING)]
+    st.rerun()
 
-user_input = st.text_input("Type your own question 👇", value=selected_example if selected_example else "", key="user_prompt")
+for role, message in st.session_state.messages:
+    avatar = "🧑‍💻" if role == "user" else "🤖"
+    with st.chat_message(role, avatar=avatar):
+        st.markdown(message)
 
+user_input = st.chat_input("Type your own question 👇")
 
-if st.button("Send") and user_input:
-    with st.spinner("Thinking... chai ke saath response leke aate hain..."):
-        response = st.session_state.chat.send_message(user_input)
-        st.write(f"🤖 Hitesh Bot: {response.text}")
-        save_conversation(user_input, response.text)
-
-
-if "chat_history" not in st.session_state:
-    st.session_state.chat_history = []
-
- 
-
-for role, message in st.session_state.chat_history:
-    if role == "You":
-        st.markdown(f"**🧑‍💻 You:** {message}")
-    else:
-        st.markdown(f"**🤖 Hitesh Bot:** {message}")
+if user_input:
+    send_message(user_input)
